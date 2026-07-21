@@ -30,7 +30,7 @@ Two unofficial, fan-made Firefly desktop pets for Codex Desktop, distributed tog
 ### 安装方法
 
 1. 前往 [Releases](https://github.com/RagnarokChan/firefly-codex-pets/releases/latest)。
-2. 下载 `流萤.zip`、`流萤花嫁.zip`，或同时下载两者。
+2. 下载 `firefly.zip`、`firefly-bride.zip`，或同时下载两者。
 3. 解压后，将其中的 `firefly` 或 `firefly-bride` 文件夹复制到：
 
    ```text
@@ -85,7 +85,7 @@ Both pets use the Codex v2 atlas format with nine standard animation states and 
 ### Installation
 
 1. Open the [latest release](https://github.com/RagnarokChan/firefly-codex-pets/releases/latest).
-2. Download `流萤.zip`, `流萤花嫁.zip`, or both.
+2. Download `firefly.zip`, `firefly-bride.zip`, or both.
 3. Extract each archive and copy the enclosed `firefly` or `firefly-bride` folder to:
 
    ```text
